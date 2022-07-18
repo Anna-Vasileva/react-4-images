@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 import { useState } from "react";
 import s from "./Searchbar.module.css";
-
+//
 function Searchbar({ onSubmit }) {
   const [name, setName] = useState("");
 
