@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Anna-Vasileva/react-4-images/static/css/main.c9c1f58c.css",
+    "main.js": "/Anna-Vasileva/react-4-images/static/js/main.cb131994.js",
+    "index.html": "/Anna-Vasileva/react-4-images/index.html",
+    "main.c9c1f58c.css.map": "/Anna-Vasileva/react-4-images/static/css/main.c9c1f58c.css.map",
+    "main.cb131994.js.map": "/Anna-Vasileva/react-4-images/static/js/main.cb131994.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9c1f58c.css",
+    "static/js/main.cb131994.js"
+  ]
+}
